@@ -1,2 +1,3 @@
-# MagnoliaClock
-A digital interpretation of an alarm clock I met on Magnolia St.
+# Magnolia Clock
+
+![](https://raw.githubusercontent.com/bkeating/MagnoliaClock/master/screenshot.png)
